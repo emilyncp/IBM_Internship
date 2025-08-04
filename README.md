@@ -3,10 +3,12 @@ An AI-powered kitchen assistant that helps users cook meals using only the ingre
 By leveraging Retrieval-Augmented Generation (RAG) and IBM Granite models, the agent suggests personalized recipes, offers ingredient substitutions, and provides step-by-step cooking instructions — making everyday cooking smarter, simpler, and more sustainable.
 
 📌 Problem Statement
+
 Many people struggle to decide what to cook with the ingredients they have, leading to repetitive meals and food waste.
 Manual recipe searches can be time-consuming and may not consider dietary needs or ingredient limitations.
 
 Solution:
+
 The Recipe Preparation Agent uses AI to:
 
 Suggest recipes based on available ingredients.
@@ -17,12 +19,15 @@ Recommend substitutions for missing ingredients.
 
 Provide clear, step-by-step cooking instructions.
 
+
 🛠️ Technologies Used
+
 IBM Cloud Lite Services
 
 Retrieval-Augmented Generation (RAG)
 
 Natural Language Processing (NLP)
+
 
 IBM Granite Model
 
@@ -34,6 +39,7 @@ IBM Cloud Watsonx.ai Runtime
 IBM Cloud Agent Lab
 
 IBM Granite Foundation Model
+
 
 ✨ Features
 Ingredient-based recipe suggestions.
