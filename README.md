@@ -15,15 +15,21 @@ The Recipe Preparation Agent uses AI to:
 🛠️ Technologies Used
 
 -IBM Cloud Lite Services
+
 -Retrieval-Augmented Generation (RAG)
+
 -Natural Language Processing (NLP)
+
 -IBM Granite Model
 
 ☁️ IBM Cloud Services Used
 
 -IBM Cloud Watsonx.ai Studio
+
 -IBM Cloud Watsonx.ai Runtime
+
 -IBM Cloud Agent Lab
+
 -IBM Granite Foundation Model
 
 ✨ Features
